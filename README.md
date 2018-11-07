@@ -1,4 +1,4 @@
-# DocuSend PHP API
+# DocuSend API -PHP
 
 ## Overview
 The purpose of this repository is to provide an PHP API wraper for the DocuSend REST API.  Docusend is a cloud based service for sending postal mail. It is very easy to integrate the ability to send invoices, etc. directly to the post office using this service.
